@@ -1,0 +1,1 @@
+{"uuid":"a851f9b2-0ca9-450b-9974-23a1b8f52799","name":"tests.BaseTest.methodLevelSetup","description":"Method Level Setup!","start":1528889683819,"stop":1528889705434,"children":["d7611eaa-5f4b-4ad7-9d39-a180fb2b45e1"],"befores":[{"name":"Method Level Setup!","status":"passed","stage":"finished","description":"Method Level Setup!","start":1528889683819,"stop":1528889705433}]}
